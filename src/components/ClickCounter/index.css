@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+.span {
+  color: #c20a72;
+}
+.button {
+  font-family: 'Roboto';
+  background-color: rgba(48, 48, 160, 0.816);
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 18px;
+  color: #f1f5f8;
+}

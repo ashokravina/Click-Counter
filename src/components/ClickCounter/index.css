@@ -19,8 +19,20 @@
 .button {
   font-family: 'Roboto';
   background-color: rgba(48, 48, 160, 0.816);
-  border-radius: 2px;
+  border-radius: 5px;
   border-width: 0px;
   font-size: 18px;
   color: #f1f5f8;
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+}
+@media(max-width:768px) {
+  .heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  .span {
+    font-size: 30px;
+  }
 }

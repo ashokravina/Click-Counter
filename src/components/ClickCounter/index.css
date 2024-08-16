@@ -27,7 +27,7 @@
   width: 100px;
   cursor: pointer;
 }
-@media(max-width:768px) {
+@media (max-width: 768px) {
   .heading {
     font-size: 30px;
     text-align: center;
